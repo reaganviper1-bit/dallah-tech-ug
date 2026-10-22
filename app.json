@@ -1,0 +1,1 @@
+app.json{"name":"dallah-tech-ug","description":"dallah-tech-ug website","repository":"https://github.com/reaganviper1-bit/dallah-tech-ug","keywords":["node","website"],"success_url":"/","buildpacks":[{"url":"https://github.com/heroku/heroku-buildpack-nodejs"}],"env":{}}
